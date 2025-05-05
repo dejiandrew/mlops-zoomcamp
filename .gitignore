@@ -1,10 +1,21 @@
 mlops-github
 mlops-github.pub
 
+# Personal and system files
+.ssh/
+.conda/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.viminfo
 
 # Python cache files
 .cache/
-.cache/*
 __pycache__/
 *.py[cod]
 *$py.class
@@ -21,10 +32,11 @@ build/
 *.egg-info/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # MLflow
 mlruns/
+mlflow.db
 
 # Local development settings
 .env
@@ -33,5 +45,3 @@ mlruns/
 # Large data files
 *.parquet
 *.csv
-
-
