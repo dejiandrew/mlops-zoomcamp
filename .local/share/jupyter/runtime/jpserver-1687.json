@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 1687,
+  "port": 8888,
+  "root_dir": "/home/deji",
+  "secure": false,
+  "sock": "",
+  "token": "1e4e8119a061d0c24bae2ed9917f125f3f1a400fbbff9145",
+  "url": "http://vm01:8888/",
+  "version": "2.15.0"
+}

@@ -1,0 +1,13 @@
+{
+  "shell_port": 59755,
+  "iopub_port": 53013,
+  "stdin_port": 55135,
+  "control_port": 40285,
+  "hb_port": 42891,
+  "ip": "127.0.0.1",
+  "key": "c285b0b4-adbd791baf170a07555e1614",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/deji/duration-prediction-2.ipynb"
+}

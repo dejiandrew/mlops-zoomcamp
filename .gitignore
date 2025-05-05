@@ -1,0 +1,37 @@
+mlops-github
+mlops-github.pub
+
+
+# Python cache files
+.cache/
+.cache/*
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+mlops-env/
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MLflow
+mlruns/
+
+# Local development settings
+.env
+.venv
+
+# Large data files
+*.parquet
+*.csv
+
+
